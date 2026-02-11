@@ -1,0 +1,90 @@
+1.Java Introduction (Simple Explanation)
+1️⃣ What is Java?
+
+Java is a programming language used to create:
+
+💻 Desktop Applications
+
+🌐 Web Applications
+
+📱 Android Apps
+
+🏢 Enterprise Software
+
+🎮 Games
+
+👉 Simple meaning:
+Java is a language that helps us give instructions to the computer.
+
+
+-----------------------------
+2.Who Created Java?
+
+Created by James Gosling
+
+In 1995
+
+Developed by Sun Microsystems
+
+Now owned by Oracle
+
+
+------------------------------
+
+3. What is Platform Independent?
+
+Very important concept 🔥
+
+Java follows:
+
+Write Once, Run Anywhere (WORA)
+
+That means:
+
+If you write Java code on Windows
+You can run it on Linux or Mac without changing code.
+
+How?
+
+Because Java uses:
+
+🟢 JDK – Java Development Kit
+
+🟢 JVM – Java Virtual Machine
+
+🟢 JRE – Java Runtime Environment
+
+We will learn these later in detail.
+
+
+4.Difference Between print() and println():-
+
+A.println() → prints and moves to next line
+
+eg:-
+
+System.out.println("Java");
+System.out.println("Programming");
+
+output:-
+
+Java
+Programming
+
+B.print() → prints in same line
+ 
+eg:-
+System.out.print("Java ");
+System.out.print("Programming");
+
+output:-
+Java Programming
+
+
+
+
+
+
+
+
+

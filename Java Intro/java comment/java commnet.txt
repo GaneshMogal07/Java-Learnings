@@ -1,0 +1,27 @@
+What is Comment in Java?
+
+👉 Comment means:
+
+Text written in program that Java ignores.
+
+It is only for understanding the code.
+
+Computer does NOT execute comments.
+
+🔹 Why We Use Comments?
+
+To explain code
+
+To remember logic
+
+For other developers
+
+For documentation
+
+📌 Types of Comments in Java
+
+Java has 3 types of comments:
+
+1️⃣ Single-line comment
+2️⃣ Multi-line comment
+3️⃣ Documentation comment
